@@ -1,5 +1,7 @@
 El Hareketiyle Hesap Makinesi
+
 Genel Bakış
+
 Bu Python betiği, MediaPipe ve OpenCV kullanarak el hareketleriyle çalışan bir hesap makinesi uygular. Web kamerası aracılığıyla el işaretlerini algılar, parmak hareketlerini tanıyarak sayıları ve işlemleri seçer ve temel aritmetik hesaplamalar (toplama, çıkarma, çarpma, bölme) yapar. Sistem, giriş sürecini yönetmek için bir durum makinesi kullanır ve sonuçları video akışında gösterir.
 Özellikler
 
