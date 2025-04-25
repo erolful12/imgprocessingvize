@@ -1,4 +1,3 @@
----
 
 **El Hareketiyle Hesap Makinesi**
 
