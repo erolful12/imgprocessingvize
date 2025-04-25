@@ -1,6 +1,7 @@
 
 **El Hareketiyle Hesap Makinesi**
-
+Ad = Mehmet Akif Erol
+No = 2023688030
 ---
 
 **Genel Bakış**  
